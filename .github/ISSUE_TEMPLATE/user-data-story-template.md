@@ -7,10 +7,10 @@ assignees: ''
 
 ---
 
-Rename the title, and replace first three entries with your short phrases. [Get help](https://github.com/i-adopt/users_stories/blob/master/README.md) filling out this template.
+Rename the title, and replace first three entries with your short phrases. [Get help](https://github.com/rdxx-sandpit/poc-idn-usecases/blob/master/README.md) filling out this template.
 
 ## As a...
-Specify your *role* or the user's role (e.g. As a scientist, or as a data analyst, etc.) 
+Specify your *role* or the user's role (e.g. As a scientist, or as a data analyst, etc.) and, if you wish, specify your organisation or group.
 
 ## I want to...
 Specify the *desired action* you or the user want to perform 
