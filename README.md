@@ -1,14 +1,16 @@
 # poc-idn-usecases
 
-This is a proof of concept experiment in gathering community led data management capability stories (techs would call this "use cases").
+*This is a proof of concept experiment in gathering community led data management capability stories, offered as a possible easy to implemet working model for how the IDN may seek, collate, share and discuss users data stories. You can see the results of this kind of process here in the [RDA's I-Adopt Working Group](https://github.com/i-adopt/users_stories/issues)*
 
-It is offered as a possible model for how the IDN may seek, collate, share and discuss users data stories. The aim is to use this information to:
+The aim would be to use this information to:
 
  * welcome input from everyone who believes that "data" and "data capability" is important to Indigenous people; 
  * help guide the priorities of the ARDC HASS-I project (over the next 12-18 months); 
  * help identify the scale and content of current and future Indigenous data needs which may be beyond the scope or resourcing of the current project;
  * share understandings of what we really mean by "Indigenous data capability", ID-SOV, IG-GOV and CARE principles;
  * build shared committments about what kinds of data and data capabilities is important;
+ * help build a community of practice around Indigenous data management issues;
+ * enable the ARDC HASS-I project to provide comprehensive advice to the Indigenous data sector and funding bodies as to what is required to ensure sustainabile Indigenous data capability going forward.
 
 # TASK: Collection of users data stories
 
