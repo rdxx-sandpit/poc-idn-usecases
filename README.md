@@ -18,7 +18,7 @@ A user story should be fundamentally a one-sentence description of what a partic
 
 ## Instructions
 
-To initiate a user story, [Get Started](https://github.com/rdxx-sandpit/poc-idn-usecases/issues/new?assignees=&labels=user+story&template=user-story-submission-template.md&title=Role+-+Desired+Action+-+Benefit). (If there is some problem, go to the Issues tab for the repository, click <kbd>New issue</kbd>, then click on <kbd>Get Started</kbd> using the "User story submission template".)
+To initiate a user story, [Get Started](https://github.com/rdxx-sandpit/poc-idn-usecases/issues/new?assignees=&labels=user+story&template=user-data-story-template.md&title=Role+-+Desired+Action+-+Benefit). (If there is some problem, go to the Issues tab for the repository, click <kbd>New issue</kbd>, then click on <kbd>Get Started</kbd> using the "User data story template".)
 
 If you just want to create a regular ticket that isn't a user story, then [Open a blank issue](https://github.com/rdxx-sandpit/poc-idn-usecases/issues/new).
 
