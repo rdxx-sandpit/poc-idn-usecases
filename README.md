@@ -1,6 +1,6 @@
 # poc-idn-usecases
 
-*This is a proof of concept experiment in gathering community led data management capability stories, offered as a possible easy to implemet working model for how the IDN may seek, collate, share and discuss users data stories. You can see the results of this kind of process here in the [RDA's I-Adopt Working Group](https://github.com/i-adopt/users_stories/issues)*
+*This is a proof of concept experiment in gathering community led data management capability stories, offered as a possible easy to implemet working model for how the IDN may seek, collate, share and discuss users data stories. You can see the results of this kind of process here in the [RDA's I-Adopt Working Group](https://github.com/i-adopt/users_stories/issues). Please try it and provide feedback to Sandra at our next catchup.*
 
 The aim would be to use this information to:
 
